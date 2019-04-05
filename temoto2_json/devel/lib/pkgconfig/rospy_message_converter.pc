@@ -1,0 +1,8 @@
+prefix=/home/selmawanna/temoto2_json/devel
+
+Name: rospy_message_converter
+Description: Description of rospy_message_converter
+Version: 0.5.0
+Cflags: -I/home/selmawanna/temoto2_json/devel/include
+Libs: -L/home/selmawanna/temoto2_json/devel/lib 
+Requires: message_runtime std_msgs

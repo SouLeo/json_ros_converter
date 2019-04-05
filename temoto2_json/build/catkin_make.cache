@@ -1,0 +1,2 @@
+rospy_message_converter:temoto2_rosmsg_to_json
+-DCATKIN_DEVEL_PREFIX=/home/selmawanna/temoto2_json/devel -DCMAKE_INSTALL_PREFIX=/home/selmawanna/temoto2_json/install -G Unix Makefiles

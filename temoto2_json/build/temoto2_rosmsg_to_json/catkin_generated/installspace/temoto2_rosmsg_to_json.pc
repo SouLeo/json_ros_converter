@@ -1,0 +1,8 @@
+prefix=/home/selmawanna/temoto2_json/install
+
+Name: temoto2_rosmsg_to_json
+Description: Description of temoto2_rosmsg_to_json
+Version: 0.0.0
+Cflags: -I/home/selmawanna/temoto2_json/install/include
+Libs: -L/home/selmawanna/temoto2_json/install/lib 
+Requires: message_runtime
